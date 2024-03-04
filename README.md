@@ -1,5 +1,9 @@
-### Hi there, I'm Jonas. 👋
-## I release research code all about NLP.
+<h3 align="center">
+Hi there, I'm Jonas. 👋
+</h3>
+<h3 align="center">
+I'm releasing research code all about NLP.
+</h3>
 
 My main focus lies on text-generative models and their application to real-world problems. My core interests strongly overlap with fields such as paraphrase detection, collaborative agents, and safe AI.
 <!--
