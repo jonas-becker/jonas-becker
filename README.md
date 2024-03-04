@@ -1,11 +1,11 @@
 <h3 align="center">
-Hi there, I'm Jonas. 👋
+Hi there, I'm <a href="https://www.jonasbecker.net/" target="_blank" rel="noreferrer">Jonas</a>. 👋
 </h3>
 <h3 align="center">
 I'm releasing research code all about NLP.
 </h3>
 
-My main focus lies on text-generative models and their application to real-world problems. My core interests strongly overlap with fields such as paraphrase detection, collaborative agents, and safe AI.
+My main focus lies on text-generative models and their application to real-world problems. My core interests strongly overlap with fields such as paraphrase detection, collaborative agents, and AI safety.
 <!--
 **jonas-becker/jonas-becker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
