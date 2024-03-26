@@ -10,9 +10,6 @@ My main focus lies on text-generative models and their application to real-world
 ## 📝 Publications
 Check out the full list of my publications <a href="https://www.jonasbecker.net/publications/" target="_blank" rel="noreferrer">here</a>.
 
-## 📈 Statistics
-![jonas-becker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonas-becker&theme=vue-dark&hide_border=true)
-
 <!--
 **jonas-becker/jonas-becker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
