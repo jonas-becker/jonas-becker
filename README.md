@@ -8,7 +8,7 @@ I'm releasing research code all about NLP.
 My main focus lies on text-generative models and their application to real-world problems. My core interests strongly overlap with fields such as paraphrase detection, collaborative agents, and AI safety.
 
 ## 📝 Publications
-Check out the full list of my publications <a href="https://www.jonasbecker.net/publications/" target="_blank" rel="noreferrer">here</a>.
+Check out the full list of my publications <a href="https://www.jonasbecker.net/" target="_blank" rel="noreferrer">here</a>.
 
 <!--
 **jonas-becker/jonas-becker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
