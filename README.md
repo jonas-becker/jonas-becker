@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://www.jonasbecker.net/" target="_blank" rel="norefe
 I'm releasing research code all about NLP.
 </h3>
 
-My main focus lies on text-generative models and their application to real-world problems. My core interests strongly overlap with fields such as Collaborative Agents, AI Safety, and Text Generation.
+My main focus lies on multi-agent systems. My core interests strongly overlap with fields such as Misinformation Spread, AI Safety, and Text Generation.
 
 ## 📝 Publications
 Check out the full list of my publications <a href="https://www.jonasbecker.net/" target="_blank" rel="noreferrer">here</a>.
